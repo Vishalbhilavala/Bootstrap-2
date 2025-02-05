@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 html{
-  overflow-y: scroll;
+  overflow-x: hidden;
 }
 
 @media (max-width: 500px) {
